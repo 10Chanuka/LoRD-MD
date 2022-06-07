@@ -29,6 +29,9 @@
 ## `DEPLOY`
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lord-official/LoRD-MD)
+    
+    
+   [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/AMOm16?referralCode=AkkiFj) 
 
 
 ### `⨷ DEPLOY`
